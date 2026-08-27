@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Claude4Meta: Claude Code on Meta AI glasses">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f1115"/>
+      <stop offset="1" stop-color="#1e2230"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="28" fill="url(#bg)"/>
+  <g transform="translate(90 70)" stroke="#d97757" stroke-width="10" fill="none" stroke-linecap="round">
+    <circle cx="50" cy="90" r="34"/>
+    <circle cx="140" cy="90" r="34"/>
+    <path d="M84 90 h22"/>
+    <path d="M16 90 l-20 -16 M174 90 l20 -16"/>
+  </g>
+  <circle cx="185" cy="40" r="11" fill="#4caf7d"/>
+  <g font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" fill="#e8eaf0">
+    <text x="330" y="128" font-size="72" font-weight="700">Claude4Meta</text>
+    <text x="332" y="182" font-size="30" fill="#8b93a7">Claude Code on Meta AI glasses</text>
+    <text x="332" y="232" font-size="24" fill="#d97757">hear the progress, speak the next step</text>
+  </g>
+  <g transform="translate(980 96)" fill="none" stroke="#4caf7d" stroke-width="6" stroke-linecap="round">
+    <path d="M0 54 v-8"/><path d="M22 54 v-30"/><path d="M44 54 v-50"/><path d="M66 54 v-36"/><path d="M88 54 v-14"/>
+    <path d="M110 54 v-44"/><path d="M132 54 v-22"/>
+  </g>
+</svg>
